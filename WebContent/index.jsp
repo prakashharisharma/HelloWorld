@@ -228,6 +228,7 @@
                                 <h3 class="title"><a href="#">QMS (Quote Management System)</a></h3>
                                 <p class="summary">The primary purpose of the QMS is to provide a complete end-to-end status of the lead creation, customer follow up, request for quote and send to banking transactions to all the stakeholders. QMS will also ensure a reduction in the number of users having access to the core Genisys policy issuance system.</p>
                                 <p><a class="more-link" href="#" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>
+                                <p>&nbsp;</p>
                             </div><!--//item-->
 							
                            <!-- <a class="btn btn-cta-secondary" href="#">More on CoderWall <i class="fa fa-chevron-right"></i></a> -->

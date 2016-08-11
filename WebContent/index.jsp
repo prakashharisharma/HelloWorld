@@ -178,7 +178,7 @@
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
                                     <h3 class="title"><a href="#" target="_blank">Robo Rules - Rule Management bot for process Agents</a></h3>
-                                    <p>You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
+                                    <p>Robo Rules is a robotic plateform to manage rules, It receive user input and return output based on rules execution. This project allows rules to configure and manage easily.</p>
                                     <p><a class="more-link" href="#" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
@@ -189,10 +189,10 @@
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
                                     <h3 class="title"><a href="#" target="_blank">OCR Extractor - Web based OCR API to extract text</a></h3>
-                                    <p>You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
+                                    <p>OCR Extractor is a web based OCR engine, It receive pdf and image files as an input from users / systems and send them output in the form of REST.</p>
                                     <p><a class="more-link" href="#" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>
                                 </div><!--//desc-->                          
-                            </div><!--//item-->                            
+                            </div><!--//item-->                             
                             
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 

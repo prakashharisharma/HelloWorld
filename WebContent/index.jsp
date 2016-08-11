@@ -71,7 +71,7 @@
                     <li class="last-item"><a href="http://stackoverflow.com/users/1126211/prakash-hari-sharma"><i class="fa fa-stack-overflow"></i></a></li>                 
                 </ul> 
             </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="http://themes.3rdwavemedia.com/" target="_blank"><i class="fa fa-paper-plane"></i> Contact Me</a>              
+            <a class="btn btn-cta-primary pull-right"href="mailto:prakashharisharma@yahoo.co.in?Subject=Hello%20Prakash!!" target="_top"><i class="fa fa-paper-plane"></i> Contact Me</a>              
         </div><!--//container-->
     </header><!--//header-->
     
